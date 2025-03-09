@@ -1,51 +1,51 @@
 const vocab = [
     {
         "question": "Hello",
-        "answer": "你好 (nǐ hǎo)",
+        "answer": "你好",
     },
     {
         "question": "Goodbye",
-        "answer": "再見 (zàijiàn)",
+        "answer": "再見",
     },
     {
         "question": "School",
-        "answer": "學校 (xuéxiào)",
+        "answer": "學校",
     },
     {
         "question": "Animal",
-        "answer": "動物 (dòng wù)",
+        "answer": "動物",
     },
     {
         "question": "Body",
-        "answer": "身体 (shēn tǐ)",
+        "answer": "身體",
     }, 
     {
-        "question": "Body",
-        "answer": "身体 (shēn tǐ)",
+        "question": "Noodles",
+        "answer": "麵條",
     }, 
     {
         "question": "Teacher",
-        "answer": "老師 (lǎoshī)",
+        "answer": "老師",
     }, 
     {
         "question": "Dog",
-        "answer": "狗 (gǒu)",
+        "answer": "狗",
     }, 
     {
         "question": "Cake",
-        "answer": "蛋糕 (dàngāo)",
+        "answer": "蛋糕",
     }, 
     {
         "question": "Congratulations",
-        "answer": "恭喜你 (gōng xǐ nǐ)",
+        "answer": "恭喜你",
     }, 
     {
         "question": "Excited",
-        "answer": "興奮 (xīngfèn)",
+        "answer": "興奮",
     }, 
     {
         "question": "Hungry",
-        "answer": "餓 (è)",
+        "answer": "餓",
     }, 
 ];
 

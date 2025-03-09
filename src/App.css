@@ -79,3 +79,26 @@
   display: flex;
   justify-content: center;
 }
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.input {
+  height: 20px;
+}
+
+.answer-status {
+  height: 40px;
+}
